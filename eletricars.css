@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.teslaS{
+    position: relative;
+    width: 650px;
+    right: 10px;
+    top: -90px;
+    border-radius: 40px;
+}
+.volvo{
+    position: relative;
+    width: 650px;
+    top: -1010px;
+    left: 640px;
+    border-radius: 40px;
+}
+.kwid{
+    position: relative;
+    width: 650px;
+    top: -1860px;
+    left: 1290px;
+    border-radius: 40px;
+}
+.vehicles{
+    position: relative;
+    left: 650px;
+    top: -2500px;
+    text-decoration: none;
+    color: black;
+    box-shadow: black;
+    box-shadow: 90px;
+}
+.back{
+    position: relative;
+    left: 870px;
+    top: -2485px;
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', static;
+}
+a{
+    text-decoration: none;
+}
+div#black{
+    position: relative;
+    width: 200px;
+    height: 700px;
+    background-color: black;
+    top: -1900px;
+    border-radius: 40px;
+}
+body{
+    overflow-x: hidden;
+}
+.teslamodely{
+    position: relative;
+    width: 200px;
+    border-radius: 40px;
+}
+.teslamodelx{
+    width: 200px;
+    position: relative;
+    top: 20px;
+}
+.image1{
+    width: 200px;
+    position: relative;
+    top: -30px;
+}
+.acura{
+    width: 200px;
+    position: relative;
+    top: -50px;
+}
+.JAC{
+    position: relative;
+    width: 200px;
+    top: -50px;
+    background-color: transparent;
+    color: transparent;
+}
+.Xi{
+    position: relative;
+    top: -2400px;
+    left: 20px;
+    color: transparent;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+}
+.r8{
+    position: relative;
+    top: -2550px;
+    left: 250px;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+    color: transparent;
+}
+.cr{
+    position: relative;
+    top: -2640px;
+    left: 450px;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+    color: transparent;
+}
+.xz{
+    position: relative;
+    top: -2780px;
+    left: 650px;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+    color: transparent;
+}
+div#black2{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    background-color: black;
+    top: -3080px;
+    border-radius: 40px;
+    left: 250px;
+}
+.dolphin{
+    position: relative;
+    width: 270px;
+    right: 30px;
+}
+.dolphinn{
+    position: relative;
+    top: -30px;
+    left: 50px;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+    color: transparent;
+}
+.fiat{
+    position: relative;
+    width: 200px;
+    top: -160px;
+}
+.fiast500{
+    position: relative;
+    writing-mode: vertical-rl; /* Modo de escrita vertical, da direita para a esquerda */
+    transform: rotate(180deg);
+    left: 250px;
+    top: -280px;
+    color: transparent;
+}
+.gwm{
+    width: 200px;
+    position: relative;
+    top: -250px;
+}
+.ora{
+    position: relative;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    top: -500px;
+    left: 470px;
+    color: transparent;
+}
+.hy{
+    position: relative;
+    width: 200px;
+    top: -450px;
+}
+.kona{
+    position: relative;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    top: -930px;
+    left: 700px;
+    color: transparent;
+}
+div#black3{
+    position: relative;
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    top: -3680px;
+    border-radius: 40px;
+    left: 500px;
+}
+.chev{
+    position: relative;
+    width: 250px;
+    right: 25px;
+}
+.bolt{
+    position: relative;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    top: -10px;
+    left: 50px;
+    color: transparent;
+}
+.mini{
+    position: relative;
+    width: 200px;
+    top: -200px;
+}
+.cooper{
+    position: relative;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    top: -330px;
+    left: 270px;
+    color: transparent;
+}
+#splash-screen {
+    position: absolute;
+    width: 150%;
+    height: 500%;
+    background: #000000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    z-index: 1000;
+    transition: opacity 1s;
+    font-family:'Anton SC', static;
+    border-radius: -40px;
+    right: -10px;
+    top: -10px;
+}
+.logo{
+    position: relative;
+    top: -1800px;
+    left: 480px;
+}
+.frase{
+    position: relative;
+    top: -1650px;
+    right: -220px;
+    font-family: 'Bodoni Moda SC', static;
+}
